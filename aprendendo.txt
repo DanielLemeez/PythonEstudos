@@ -1,0 +1,5 @@
+Meu desenvolvimento no python, começando a estudar python por meio de livros e sites.
+
+GUIA:
+1 - Escolher IDE (Visual Studio Code)
+2 - Comandos Básicos  
