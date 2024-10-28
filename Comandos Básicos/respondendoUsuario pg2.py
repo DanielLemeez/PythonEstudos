@@ -5,3 +5,4 @@ variavel = input('Digite algo: ')
 #Aqui eu disse ao programa que variavel é igual a resposta do usuario, Basicamente o usuario atribui um valor dentro da dessa variavel.
 
 print(variavel) # é possivel mostrar oque tem dentro de uma variavel usando "print".
+print("Finalizado")
